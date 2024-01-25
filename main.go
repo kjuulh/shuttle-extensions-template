@@ -17,7 +17,7 @@ func main() {
 	}
 
 	cmd.AddCommand(&cobra.Command{Use: "one-more", RunE: func(cmd *cobra.Command, args []string) error {
-		log.Println("feat: with one more cmd")
+		log.Println("feat: with one more cmd and again")
 
 		return nil
 	}})
