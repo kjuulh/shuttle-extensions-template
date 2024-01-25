@@ -1,42 +1,42 @@
 {
-"name": "shuttle-extensions-template",
-"description": "Enhances your experience with shuttle.",
-"version": "v0.1.1",
-"downloadUrls": [
-{
-"architecture": "amd64",
-"os": "darwin",
-"url": "https://github.com/kjuulh/shuttle-extensions-template/releases/download/v0.1.1/shuttle-extensions-template-darwin-amd64",
-"checksum": "",
-"provider": "github-release"
-},
-{
-"architecture": "arm64",
-"os": "darwin",
-"url": "https://github.com/kjuulh/shuttle-extensions-template/releases/download/v0.1.1/shuttle-extensions-template-darwin-arm64",
-"checksum": "",
-"provider": "github-release"
-},
-{
-"architecture": "386",
-"os": "linux",
-"url": "https://github.com/kjuulh/shuttle-extensions-template/releases/download/v0.1.1/shuttle-extensions-template-linux-386",
-"checksum": "",
-"provider": "github-release"
-},
-{
-"architecture": "amd64",
-"os": "linux",
-"url": "https://github.com/kjuulh/shuttle-extensions-template/releases/download/v0.1.1/shuttle-extensions-template-linux-amd64",
-"checksum": "",
-"provider": "github-release"
-},
-{
-"architecture": "arm64",
-"os": "linux",
-"url": "https://github.com/kjuulh/shuttle-extensions-template/releases/download/v0.1.1/shuttle-extensions-template-linux-arm64",
-"checksum": "",
-"provider": "github-release"
-}
-]
+  "name": "shuttle-extensions-template",
+  "description": "Enhances your experience with shuttle.",
+  "version": "v0.1.1",
+  "downloadUrls": [
+    {
+      "architecture": "amd64",
+      "os": "darwin",
+      "url": "https://github.com/kjuulh/shuttle-extensions-template/releases/download/v0.1.1/shuttle-extensions-template-darwin-amd64",
+      "checksum": "",
+      "provider": "github-release"
+    },
+    {
+      "architecture": "arm64",
+      "os": "darwin",
+      "url": "https://github.com/kjuulh/shuttle-extensions-template/releases/download/v0.1.1/shuttle-extensions-template-darwin-arm64",
+      "checksum": "",
+      "provider": "github-release"
+    },
+    {
+      "architecture": "386",
+      "os": "linux",
+      "url": "https://github.com/kjuulh/shuttle-extensions-template/releases/download/v0.1.1/shuttle-extensions-template-linux-386",
+      "checksum": "",
+      "provider": "github-release"
+    },
+    {
+      "architecture": "amd64",
+      "os": "linux",
+      "url": "https://github.com/kjuulh/shuttle-extensions-template/releases/download/v0.1.1/shuttle-extensions-template-linux-amd64",
+      "checksum": "",
+      "provider": "github-release"
+    },
+    {
+      "architecture": "arm64",
+      "os": "linux",
+      "url": "https://github.com/kjuulh/shuttle-extensions-template/releases/download/v0.1.1/shuttle-extensions-template-linux-arm64",
+      "checksum": "",
+      "provider": "github-release"
+    }
+  ]
 }
