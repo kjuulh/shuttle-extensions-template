@@ -16,6 +16,14 @@ func main() {
 		},
 	}
 
+	cmd.AddCommand(&cobra.Command{
+		Use: "one-more-command",
+		RunE: func(cmd *cobra.Command, args []string) error {
+			log.Println("one more")
+			return nil
+		},
+	})
+
 	if err := cmd.Execute(); err != nil {
 		panic(err)
 	}
